@@ -33,8 +33,8 @@ Note: the release flag may be necessary to get playable speed.
 
 There are currently 2 different ways to run RustedNES. There is a simple SDL frontend, and a libretro core that can be used with RetroArch or other libretro frontends.
 
-### SDL
-
+### SDL   
+      
 The SDL interface is simple to use, but it's not configurable. To run with more features, see [libretro](#libretro) below.
 
 The built executable can be found in the `target/release` directory. The file is named `rustednes-sdl` (with .exe extension on Windows).
